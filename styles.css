@@ -1,0 +1,11 @@
+.rectangle-nav-bar,
+.rectangle-nav-bar * {
+  box-sizing: border-box;
+}
+.rectangle-nav-bar {
+  background: #00344a;
+  border-radius: 20px;
+  width: 81px;
+  height: 727px;
+  position: relative;
+}
